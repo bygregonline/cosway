@@ -1,3 +1,7 @@
 # cosway
 my cowsay repo
-![Logo de GitHub]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://raw.githubusercontent.com/bygregonline/cosway/refs/heads/main/screenshot.png))
+![Screenshot]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://raw.githubusercontent.com/bygregonline/cosway/refs/heads/main/screenshot.png)
+
+
+enyoy it
+
